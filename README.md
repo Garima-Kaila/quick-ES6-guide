@@ -1,2 +1,2 @@
-# Quick ES-6 Guide
+# Quick ES-6 Guide![](/assets/Chrysanthemum.jpg)
 
